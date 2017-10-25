@@ -1,0 +1,35 @@
+
+
+* {
+  margin: 0;
+}
+
+p{
+
+font-family: 'Goudy Bookletter 1911', serif;
+
+}
+}
+.wrapper {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin: 0 auto -4em;
+}
+.mainHeader{
+	columns:
+}
+#game{
+	text-align: left;
+}
+#container{
+	width: 100%;
+	max-width: 960px;
+	margin: 0 auto;
+	clear: both;
+}
+
+.footer, .push {
+  height: 4em;
+  text-align: center;
+}
